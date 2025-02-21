@@ -1,6 +1,7 @@
 <a href="https://dart.dev/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart Logo" width="100">
 </a>
+
 # Dart Language Learning Examples
 
 This repository contains simple command-line Dart applications designed for learning the basics of the Dart language syntax and common implementations.  The files in this repository are intended as self-contained examples, each focusing on a specific Dart language feature.
