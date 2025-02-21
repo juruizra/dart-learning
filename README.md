@@ -29,7 +29,7 @@ Each file is named descriptively to indicate the Dart feature it demonstrates.  
 
 *   `list.dart`: Demonstrates how to create and manipulate lists.
 *   `classes.dart`: Shows how to define and use classes.
-*   `interfaces`: Illustrates how to implement interfaces.
+*   `interfaces.dart`: Illustrates how to implement interfaces.
 
 ## Contributing
 
