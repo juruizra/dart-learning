@@ -7,7 +7,7 @@ import 'dart:async';
 void main() {
   // Stream constructor fromIterable to create a stream of 3 events, based on the numbers of the list
   // In the example, they will trigger right away, but in real implementations each event can be separated for a long time from the other
-  // a stream can only be lisened to one time by default, to override this behaviour use method .asBroadcastStream() to allow different listners.
+  // a stream can only be lisened to one time by default, to override this behavior use method .asBroadcastStream() to allow different listners.
   var stream = Stream.fromIterable([1,2,3]).asBroadcastStream();
 
   stream.listen((event) => print(event));

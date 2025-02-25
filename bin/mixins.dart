@@ -1,5 +1,5 @@
-/* Additional behaviours and flexibility can be implemented using mixins instead of classes*/
-// Mixins are commonly organized as behaviours
+/* Additional behaviors and flexibility can be implemented using mixins instead of classes*/
+// Mixins are commonly organized as behaviors
 
 void main(){
   var s = SuperHuman();
@@ -10,7 +10,7 @@ void main(){
 
 class Human{}
 
-// Class superhuman has all charcteristics of Human and the aditional behaviour of Fast and Strong
+// Class superhuman has all charcteristics of Human and the aditional behavior of Fast and Strong
 class SuperHuman extends Human with Strong, Fast {
 
 }
